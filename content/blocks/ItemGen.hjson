@@ -1,0 +1,7 @@
+type: ItemSource
+name: ItemGen
+health: 2000
+category: logic
+itemsPerSecond: 500
+requirements: [
+]

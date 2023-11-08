@@ -1,0 +1,6 @@
+name: LiquidGen
+type: LiquidSource
+health: 2000
+category: logic
+requirements: [
+]

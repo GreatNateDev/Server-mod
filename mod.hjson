@@ -1,0 +1,6 @@
+name: "Sever Mod"
+displayName: "Server Mod"
+author: "GreatNateDev"
+description: "A Mod for my server"
+version: "1.2.7.1"
+minGameVersion: "136"
